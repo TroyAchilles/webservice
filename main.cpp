@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    cout << "A Simple Webservice Application!" << endl;
     return 0;
 }
